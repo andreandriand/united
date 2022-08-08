@@ -1,0 +1,44 @@
+.bg-carnelian {
+    background-color: #ba181b;
+}
+.bg-imperial-red {
+    background-color: #e5383b;
+}
+.bg-ruby {
+    background-color: #a4161a;
+}
+.bg-blood {
+    background-color: #660708;
+}
+.bg-eerie-black {
+    background-color: #161a1d;
+}
+.bg-rich-black {
+    background-color: #0b090a;
+}
+.bg-black-shadows {
+    background-color: #b1a7a6;
+}
+.bg-light-grey {
+    background-color: #d3d3d3;
+}
+.bg-cultured {
+    background-color: #f5f3f4;
+}
+.bg-white {
+    background-color: #fff;
+}
+
+.position-image {
+    top: 12rem;
+    left: 8rem;
+}
+.position-text {
+    top: 16rem;
+    left: 26rem;
+}
+.position-svg {
+    top: 6rem;
+    left: 4rem;
+    z-index: -1;
+}
